@@ -1,4 +1,4 @@
-# Sem_3_recordings
+# Sem_4_recordings
 This repository stores links to all recorded classes of CSE-B 4th semester. Anyone from CSE B feel free to use this repository for your use!
 MS Teams zindabad!
 
@@ -15,10 +15,9 @@ MS Teams zindabad!
 - [OE(matlab)](OE.md)
 
 <!-- **Labs:** 
-- [DSD lab](Repo/Labs/DSDlab.md)
-- [DSA lab](Repo/Labs/DSAlab.md)
-- [OOP lab](Repo/Labs/OOPlab.md)
-- [OST lab](Repo/Labs/OSTlab.md) -->
+- [ES lab](Repo/Labs/DSDlab.md)
+- [DAA lab](Repo/Labs/DSAlab.md)
+- [DBS lab](Repo/Labs/OOPlab.md)-->
 
 If anyone wants to contribute, then PM author for contributor access!
 
