@@ -2,22 +2,23 @@
 This repository stores links to all recorded classes of CSE-B 4th semester. Anyone from CSE B feel free to use this repository for your use!
 MS Teams zindabad!
 
-[Jump to the website NOW!](https://skully-coder.github.io/Sem_3_recordings/)
+[Jump to the website NOW!]()
 
 # 👇 SELECT SUBJECT 👇
 
 **Theory:** 
-- [MATHS III](Repo/Theory/MATHSIII.md)
-- [COA](Repo/Theory/COA.md)
-- [DSD](Repo/Theory/DSD.md)
-- [DSA](Repo/Theory/DSA.md)
-- [OOP](Repo/Theory/OOP.md)
+- [MATHS IV](Repo/Theory/MATHSIV.md)
+- [FLAT](Repo/Theory/FLAT.md)
+- [ES](Repo/Theory/ES.md)
+- [DAA](Repo/Theory/DAA.md)
+- [DBS](Repo/Theory/DBS.md)
+- [OE(matlab)](OE.md)
 
-**Labs:** 
+<!-- **Labs:** 
 - [DSD lab](Repo/Labs/DSDlab.md)
 - [DSA lab](Repo/Labs/DSAlab.md)
 - [OOP lab](Repo/Labs/OOPlab.md)
-- [OST lab](Repo/Labs/OSTlab.md)
+- [OST lab](Repo/Labs/OSTlab.md) -->
 
 If anyone wants to contribute, then PM author for contributor access!
 
@@ -26,12 +27,9 @@ If anyone wants to contribute, then PM author for contributor access!
  **Repo:** 
  [Shuvam Mandal](https://github.com/coffeeCoder69)
 
- **Website:**
- [Abhinav Agrawal](https://github.com/skully-coder)
-
  **Contributors:** 
- <a href="https://github.com/coffeeCoder69/Sem_3_recordings/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=coffeeCoder69/Sem_3_recordings" />
+ <a href="https://github.com/coffeeCoder69/Sem_4_recordings/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=coffeeCoder69/Sem_4_recordings" />
 </a>
 
 ***Please Note: This repository needs more contributors, so please feel free to contribute, and also, appreciate our work by giving this repository a star!***
