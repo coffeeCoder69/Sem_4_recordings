@@ -29,13 +29,3 @@
 - [12 Apr](https://learnermanipal.sharepoint.com/sites/MathematicsIV-MAT2256/Shared%20Documents/General/Recordings/MAT%202256_%20Lecture%2014-20210412_080211-Meeting%20Recording.mp4?web=1)
 
 - [15 Apr](https://learnermanipal.sharepoint.com/sites/MathematicsIV-MAT2256/Shared%20Documents/General/Recordings/MAT%202256_%20Lecture%2015-20210415_140031-Meeting%20Recording.mp4?web=1)
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
