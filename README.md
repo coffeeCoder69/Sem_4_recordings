@@ -2,8 +2,6 @@
 This repository stores links to all recorded classes of CSE-B 4th semester. Anyone from CSE B feel free to use this repository for your use!
 MS Teams zindabad!
 
-[Jump to the website NOW!](https://coffeecoder69.github.io/Sem_4_recordings/)
-
 # 👇 SELECT SUBJECT 👇
 
 **Theory:** 
