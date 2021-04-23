@@ -10,7 +10,7 @@ MS Teams zindabad!
 - [ES](Repo/Theory/ES.md)
 - [DAA](Repo/Theory/DAA.md)
 - [DBS](Repo/Theory/DBS.md)
-- [OE(MATLAB)](OE.md)
+- [OE(MATLAB)](Repo/Theory/OE.md)
 
 <!-- **Labs:** 
 - [ES lab](Repo/Labs/DSDlab.md)
