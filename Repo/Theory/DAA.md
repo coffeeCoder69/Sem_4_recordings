@@ -1,6 +1,6 @@
 # DAA Recodings 
 
-- [12 Jan](https://web.microsoftstream.com/video/938a4729-24ea-471e-a15e-353a92c23836)
+- [12 Jan](https://web.microsoftstream.com/video/e682b5f3-25a4-4c8d-b354-2ab426c216db)
 
 - 14 Jan
   - [Part 1](https://web.microsoftstream.com/video/5d680a97-4467-4f88-b062-0879ac4d8cd6)
