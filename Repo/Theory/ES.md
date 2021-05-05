@@ -28,4 +28,4 @@
 
 - [28 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Assembly%20Language%20Programming-20210428_085108-Meeting%20Recording.mp4?web=1)
 
-- [5 May]()
+- [5 May.]()
