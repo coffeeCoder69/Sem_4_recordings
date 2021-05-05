@@ -13,3 +13,9 @@
 - [10 Apr](https://learnermanipal.sharepoint.com/sites/MATLABforEngineers2021/Shared%20Documents/General/Recordings/Meeting%20now-20210410_160340-Meeting%20Recording.mp4?web=1)
 
 - [21 Apr](https://learnermanipal.sharepoint.com/sites/MATLABforEngineers2021/Shared%20Documents/General/Recordings/Lecture%205-20210421_100451-Meeting%20Recording.mp4?web=1)
+
+- [24 Apr](https://learnermanipal.sharepoint.com/sites/MATLABforEngineers2021/Shared%20Documents/General/Recordings/Lecture%206-20210424_160142-Meeting%20Recording.mp4?web=1)
+
+- [28 Apr](https://learnermanipal.sharepoint.com/sites/MATLABforEngineers2021/Shared%20Documents/General/Recordings/Lecture%207-20210428_101300-Meeting%20Recording.mp4?web=1)
+
+- [5 May.]()
