@@ -21,3 +21,15 @@
 - [10 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210410_140956-Meeting%20Recording.mp4?web=1)
 
 - [13 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/DAA%20section%20B-20210413_160645-Meeting%20Recording.mp4?web=1)
+
+- [20 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/DAA%20section%20B-20210420_163557-Meeting%20Recording.mp4?web=1)
+
+- [24 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210424_140422-Meeting%20Recording.mp4?web=1)
+
+- [27 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/DAA%20section%20B-20210427_165002-Meeting%20Recording.mp4?web=1)
+
+- [28 Apr](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/Extra%20class%20_DAA%20section%20B-20210428_143102-Meeting%20Recording.mp4?web=1)
+
+- [4 May](https://learnermanipal.sharepoint.com/sites/DAA_2021_Sec_B/Shared%20Documents/General/Recordings/DAA%20section%20B-20210504_163552-Meeting%20Recording.mp4?web=1)
+
+- []()
