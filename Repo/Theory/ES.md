@@ -21,3 +21,11 @@
 - [9 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Programming-20210409_095927-Meeting%20Recording.mp4?web=1)
 
 - [14 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Programming-Logical%20instructions-20210414_080404-Meeting%20Recording.mp4?web=1)
+
+- [21 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Programming-20210421_083740-Meeting%20Recording.mp4?web=1)
+
+- [23 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Programming-20210423_100349-Meeting%20Recording.mp4?web=1)
+
+- [28 Apr](https://learnermanipal.sharepoint.com/sites/DSD_III_SEM_B_2020/Shared%20Documents/Embedded%20Systems/Recordings/Assembly%20Language%20Programming-20210428_085108-Meeting%20Recording.mp4?web=1)
+
+- [5 May]()
